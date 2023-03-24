@@ -1,10 +1,10 @@
 package com.yqw.algorithm.tree;
 
+import java.util.Scanner;
+
 public class BinaryTreeDemo {
     public static void main(String[] args) {
-        System.out.println("我的代码");
-        System.out.println("我的代码");
-        System.out.println("我的代码");
-        System.out.println("我的代码");
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
     }
 }
